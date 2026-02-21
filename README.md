@@ -108,4 +108,7 @@ Colocar todo o dinheiro em um único investimento ou tipo de ativo é um risco s
 ### 7. Cair em Golpes
 Iniciantes que buscam enriquecimento rápido são alvos fáceis para golpes financeiros. As fontes alertam: se uma oportunidade parece boa demais para ser verdade, provavelmente é.
 
+### RESUMO
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/58eec39c-fd91-4ec1-86ed-e7c4bbd2ce0e" />
 
+*Esse repositório foi construido como parte do curso de GenAi & Dados*
